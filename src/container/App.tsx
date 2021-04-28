@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
 import Home from './home/Home';
 import About from './about/About';
+import './App.scss';
 
 function Users() {
   return <h2>Users</h2>;
